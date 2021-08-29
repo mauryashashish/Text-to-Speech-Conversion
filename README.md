@@ -8,4 +8,7 @@ This repository contains a python script which converts the text from a PDF file
 <code>PIL.Image</code> : supports opening, manipulating and saving images<br>
 <code>pytesseract</code> : converts written content of an image to text<br>
 <code>gtts</code> : Google Translate's text-to-speech API<br><br>
-<strong>References:</strong><br> Do read through this blog to get more insights about the project:<br>https://myblindbird.com/python-project-source-code/
+
+<h3>References:</h3>
+
+Do read through this blog to get more insights about the project:<br>https://myblindbird.com/python-project-source-code/
