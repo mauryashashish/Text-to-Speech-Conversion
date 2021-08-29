@@ -11,4 +11,4 @@ This repository contains a python script which converts the text from a PDF file
 
 <h3>References:</h3>
 
-Do read through this blog to get more insights about the project:<br>https://myblindbird.com/python-project-source-code/
+Do go through this blog to get more insights about the project:<br>https://myblindbird.com/python-project-source-code/
